@@ -1,3 +1,3 @@
 # Offroad Robotics
 
-Offroad Robotics is a field and mobile robotics research group at Queen's University in Kingston, Ontario, Canada.
+[Offroad Robotics](https://offroad.engineering.queensu.ca) is a field and mobile robotics research group at Queen's University in Kingston, Ontario, Canada.
